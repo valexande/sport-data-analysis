@@ -1,0 +1,47 @@
+1. AI-Driven Demand Forecasting & Smart Water Allocation
+
+Papers:
+
+"A Study on Developing an AI-Based Water Demand Prediction and Classification Model"
+Summary: This study develops AI-based water demand prediction models using Deep Neural Networks (DNN) and Long Short-Term Memory (LSTM) models to enhance drought response strategies.
+
+"Long-term water demand forecasting using artificial intelligence models"
+Summary: This research compares various AI models for long-term water demand forecasting across different sectors, emphasizing the importance of region-specific assessments. 
+
+Datasets: Water Demand Forecasting Dataset
+Description: This dataset contains historical water consumption data, which can be used to train machine learning models for predicting future water demand.
+Link: https://github.com/aildnont/water-forecast?utm_source=chatgpt.com
+
+2. Knowledge Graphs for Water Quality Monitoring & Contamination Prediction
+
+Papers:
+
+"Characterizing water quality datasets through multi-dimensional knowledge graphs: a case study of the Bogota river basin"
+Summary: This paper presents a new water quality ontology and develops multi-dimensional knowledge graphs to analyze the spatio-temporal distribution and legal framework of water quality in the Bogota river basin. 
+
+"The Water Health Open Knowledge Graph"
+Summary: Introduces the WHOW-KG, a semantic knowledge graph modeling data on water consumption, pollution, and health parameters, supporting applications from knowledge discovery to decision-making. 
+
+
+Datasets:
+
+NASA's Water Quality Data
+Description: NASA provides datasets useful for water quality studies, including microplastic concentrations, agricultural impact surveys, and ocean surface temperature data.
+Link: https://www.earthdata.nasa.gov/topics/ocean/water-quality?utm_source=chatgpt.com
+
+
+3. AI-Powered Leak Detection & Infrastructure Optimization
+
+Papers:
+
+"AI-Forecast: an innovative and practical tool for short-term water demand prediction"
+Summary: Presents AI-Forecast, a tool developed to predict water demand using state-of-the-art models, which can be adapted for leak detection by analyzing discrepancies between predicted and actual water usage.
+
+"Artificial Intelligence Approaches for Urban Water Demand Forecasting"
+Summary: Reviews various AI-based approaches, such as fuzzy logic systems and support vector machines, applied to urban water demand forecasting, which can inform infrastructure optimization strategies.
+
+Datasets:
+
+Water Distribution System Dataset
+Description: Contains data on water distribution networks, including flow rates and pressure readings, which can be used to develop and test AI models for leak detection and infrastructure optimization.
+Link: https://hub.arcgis.com/templates/e1bb8b24c79b40138f0b0f0cc9b35fb3/about
